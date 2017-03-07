@@ -1,0 +1,30 @@
+{
+  "name": "scrumtastic",
+  "version": "0.0.1",
+  "description": "A web app for scrum development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S17cis526/scrumtastic-jdhoward5.git"
+  },
+  "keywords": [
+    "Scrum",
+    "Software",
+    "Web",
+    "App",
+    "Task",
+    "Board"
+  ],
+  "author": "Jonathan Howard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S17cis526/scrumtastic-jdhoward5/issues"
+  },
+  "homepage": "https://github.com/S17cis526/scrumtastic-jdhoward5#readme",
+  "dependencies": {
+    "sqlite3": "3.1.8"
+  }
+}
